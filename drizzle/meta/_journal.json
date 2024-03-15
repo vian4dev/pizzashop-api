@@ -22,6 +22,20 @@
       "when": 1710514732445,
       "tag": "0002_bizarre_professor_monster",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1710515492493,
+      "tag": "0003_heavy_terrax",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1710515624372,
+      "tag": "0004_spotty_red_wolf",
+      "breakpoints": true
     }
   ]
 }
