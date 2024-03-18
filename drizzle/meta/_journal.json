@@ -5,36 +5,8 @@
     {
       "idx": 0,
       "version": "5",
-      "when": 1710514157200,
-      "tag": "0000_ambitious_morlocks",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "5",
-      "when": 1710514221897,
-      "tag": "0001_silent_iceman",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "5",
-      "when": 1710514732445,
-      "tag": "0002_bizarre_professor_monster",
-      "breakpoints": true
-    },
-    {
-      "idx": 3,
-      "version": "5",
-      "when": 1710515492493,
-      "tag": "0003_heavy_terrax",
-      "breakpoints": true
-    },
-    {
-      "idx": 4,
-      "version": "5",
-      "when": 1710515624372,
-      "tag": "0004_spotty_red_wolf",
+      "when": 1710765513215,
+      "tag": "0000_neat_night_thrasher",
       "breakpoints": true
     }
   ]
