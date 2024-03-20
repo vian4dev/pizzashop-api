@@ -32,6 +32,7 @@ Desenvolvimento de uma API para um painel de gerenciamento de pedidos, focando n
 
 <div style="display: inline_block"><br>
 <img align="center" alt="img-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<img align="center" alt="img-typescript" height="30" width="40" src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/3216719740fd90b633283886f46221ed9d7791fb/misc/readme/logo-github-sq-dark.svg">
 </div>
 
 ## 📷 Demostração
