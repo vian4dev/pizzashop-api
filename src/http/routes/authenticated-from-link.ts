@@ -1,4 +1,4 @@
-import Elysia, { Cookie, t } from 'elysia'
+import Elysia, { t } from 'elysia'
 import { db } from '../../db/connection'
 import dayjs from 'dayjs'
 import { auth } from '../auth'
